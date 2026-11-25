@@ -40,3 +40,12 @@ Learning Focus:
 - CI/CD
 
 Halooo gesssss
+
+## GitHub Sync Practice
+
+I have successfully connected my local repository to GitHub.
+
+Learning:
+- Git Push
+- Git Pull
+- Git Clone
