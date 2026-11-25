@@ -38,3 +38,5 @@ Learning Focus:
 - Linux
 - Deployment
 - CI/CD
+
+Halooo gesssss
