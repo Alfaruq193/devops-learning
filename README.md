@@ -1,5 +1,3 @@
-# Task Management API
-
 Project pembelajaran DevOps.
 
 ## Tujuan
@@ -15,4 +13,13 @@ Belajar:
 - Docker
 - Docker Compose
 - Deployment
-- CI/CD
+- CI/C
+
+## Progress Pembelajaran
+
+- [x] Git initialization
+- [x] Initial commit
+- [ ] GitHub repository
+- [ ] Docker
+- [ ] Linux server
+- [ ] DeploymentD
