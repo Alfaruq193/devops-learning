@@ -23,3 +23,18 @@ Belajar:
 - [ ] Docker
 - [ ] Linux server
 - [ ] DeploymentD
+
+## Project Profile
+
+Project Name: DevOps Learning
+
+Developer: Abdullah Alfaruq
+
+Platform: macOS
+
+Learning Focus:
+- Git
+- Docker
+- Linux
+- Deployment
+- CI/CD
